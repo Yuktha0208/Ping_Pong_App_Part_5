@@ -1,0 +1,43 @@
+body{
+    font-family: 'Odibee Sans', cursive;
+}
+
+.heading{
+    width: 100%;
+    text-align: left;
+
+}
+
+.heading h1{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+.canvas{
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 25px;
+    box-shadow: 10px 10px 10px white;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.modalimage{
+    display:inline-block;
+    width: 45%;
+}
+
+#footer{
+    bottom: 0;
+    position: fixed;
+    line-height: 3;
+    text-align: center;
+    color: white;
+    background-color: rgb(17, 85, 85);
+    width: 100%;
+}
